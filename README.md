@@ -40,4 +40,4 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+**https://www.linkedin.com/in/emmanuel-ani-489ab22bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app**
